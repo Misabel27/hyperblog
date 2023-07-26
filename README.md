@@ -1,2 +1,2 @@
 # hyperblog
-blog incrrible para mi curso de platzi
+blog increible para mi curso de platzi
